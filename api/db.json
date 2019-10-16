@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "name": "C K",
+      "department": "IT",
+      "salary": "1000",
+      "id": 1
+    },
+    {
+      "name": "A A",
+      "department": "Engineering",
+      "salary": "1500",
+      "id": 2
+    }
+  ]
+}
